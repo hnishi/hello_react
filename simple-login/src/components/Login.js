@@ -37,7 +37,7 @@ function Login() {
 
     return (
     <div className="login-page">
-        <h2>Login In</h2>
+        <h2>Log In</h2>
         <form autoComplete="off" onSubmit={handleLoginSubmit}>
             <div className="form-group">
                 <input
